@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**esicera/esicera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src="https://github.com/esicera/Windows11OptimizationScript/blob/main/kira%20kira%20beam.gif"/>
+<br><br>
+<pre>
+    slop code final boss :3
+</pre>
+<br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br>
+  
+[![](https://img.shields.io/github/stars/esicera)](https://github.com/esicera)
+</div>
