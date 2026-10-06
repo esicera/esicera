@@ -3,7 +3,7 @@
     <code>Slop Code Final Boss</code> 
   </h2>
   <p>
-    <i>look at my silly projects</i> :3
+    <i>look at my silly projects</i>
   </p>
   <img src="https://github.com/esicera/Windows11OptimizationScript/blob/main/kira%20kira%20beam.gif" width="600" />
     <h2>
