@@ -3,7 +3,7 @@
     <code>Welcome to my Repo</code> 
   </h2>
   <p>
-    <i>Cloud & Networking Undergraduate | PowerShell, OCI & Azure/i>
+    <i>Cloud & Networking Undergraduate | PowerShell, OCI & Azure</i>
   </p>
   <br/><br/>
   <p>
