@@ -1,15 +1,14 @@
 <div align="center">
   <h2>
-    <code>Slop Code Final Boss</code> 
+    <code>Welcome to my Repo</code> 
   </h2>
   <p>
-    <i>look at my silly projects</i>
+    <i>Cloud & Networking Undergraduate | PowerShell, OCI & Azure/i>
   </p>
-  <img src="https://github.com/esicera/Windows11OptimizationScript/blob/main/kira%20kira%20beam.gif" width="600" />
-    <h2>
-    <code>insane contr snake</code> 
-  </h2
   <br/><br/>
+  <p>
+    <i>Planning to Learn AWS - More to come!</i>
+  </p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/esicera/esicera/output/github-contribution-grid-snake-dark.svg">
